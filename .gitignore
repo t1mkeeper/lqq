@@ -17,6 +17,9 @@ xcuserdata/
 DerivedData
 *.hmap
 *.ipa
+Pods/
+Podfile.lock
+*.xcworkspace
 
 # Bundler
 .bundle

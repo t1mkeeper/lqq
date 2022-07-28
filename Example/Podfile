@@ -3,7 +3,8 @@ use_frameworks!
 platform :ios, '10.0'
 
 target 'lqq_Example' do
-  pod 'lqq', :path => '../'
+#  pod 'lqq', :path => '../'
+  pod 'lqq'
 
   target 'lqq_Tests' do
     inherit! :search_paths
